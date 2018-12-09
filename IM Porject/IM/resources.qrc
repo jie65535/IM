@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/group.png</file>
+        <file>images/userOffline.png</file>
+        <file>images/userOnline.png</file>
+    </qresource>
+</RCC>
